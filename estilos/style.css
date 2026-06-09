@@ -37,3 +37,7 @@ p {
     color: #333;
     margin-bottom: 15px;
 }
+
+img.lado {
+    float: right;
+}
